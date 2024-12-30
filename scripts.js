@@ -79,7 +79,7 @@ document.getElementById("language-toggle").addEventListener("click", function ()
         document.querySelector("#about-me h2").innerHTML =
             '<img src="./img/aboutme.png" alt="Icono de sobre mí" class="about-me-icon"> Sobre mí';
         document.querySelector(".about-content").innerHTML =
-            "<p>Mi nombre es Rosario Kovak, actualmente soy una <span class='highlight'>diseñadora de gráfico UX/UI</span> y <span class='highlight'>creadora de filtros con años de experiencia</span>. También sé español e inglés y puedo comunicarme con fluidez. Conozco sobre desarrollo de software y me gusta continuar aprendiendo para mejorar mis capacidades.</p>" +
+            "<p>Mi nombre es Rosario Kovacz, actualmente soy una <span class='highlight'>diseñadora de gráfico UX/UI</span> y <span class='highlight'>creadora de filtros con años de experiencia</span>. También sé español e inglés y puedo comunicarme con fluidez. Conozco sobre desarrollo de software y me gusta continuar aprendiendo para mejorar mis capacidades.</p>" +
             "<p>He participado en diferentes tipos de proyectos y estoy lista para participar en su empresa y dar lo mejor de mí. Estoy comprometida con cumplir las mejores expectativas. <span class='highlight'>Algunas de mis participaciones incluyen diseñar y crear filtros para 'Head & Shoulders' y 'Herbal Essence Manuka Honey', completamente personalizados para adaptarse a sus pedidos.</span></p>" +
             "<p>Soy bastante creativa y tengo una iniciativa positiva. Sé trabajar en diferentes tipos de grupos, ya sea sola, en dúo o en grupo, y puedo adaptarme rápidamente a diferentes formas de trabajo. Tengo las mejores habilidades para crear cualquier tipo de diseño.</p>";
 
@@ -151,7 +151,7 @@ document.getElementById("language-toggle").addEventListener("click", function ()
         document.querySelector("#about-me h2").innerHTML =
             '<img src="./img/aboutme.png" alt="About Me Icon" class="about-me-icon"> About Me';
         document.querySelector(".about-content").innerHTML =
-            "<p>My name is Rosario Kovak, I am currently a <span class='highlight'>UX/UI Graphic Designer</span> and <span class='highlight'>Filter Creator with years of experience</span>. I also know Spanish and English and can communicate fluently. I know about software development and enjoy continuous learning to improve my capabilities.</p>" +
+            "<p>My name is Rosario Kovacz, I am currently a <span class='highlight'>UX/UI Graphic Designer</span> and <span class='highlight'>Filter Creator with years of experience</span>. I also know Spanish and English and can communicate fluently. I know about software development and enjoy continuous learning to improve my capabilities.</p>" +
             "<p>I have participated in different types of projects and I am ready to participate in your company and give my best. I am committed to meeting the best expectations. <span class='highlight'>Some of my participations include designing and creating filters for 'Head & Shoulders' and 'Herbal Essence Manuka Honey', completely personalized to suit your orders.</span></p>" +
             "<p>I am quite creative and have a positive initiative. I know how to work in different types of groups, whether alone, in a duo, or in a group, and I can quickly adapt to different ways of working. I have the best skills to create any type of design.</p>";
 
